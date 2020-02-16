@@ -1,0 +1,13 @@
+body {
+	font-family: 'Dancing Script';
+}
+
+.select {
+	color: green;
+}
+
+.done {
+	color: red;
+	opacity: 0.5;
+	text-decoration: line-through;
+}

@@ -1,0 +1,13 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+https://source.unsplash.com/NodtnCsLdTE
+
+<script src="https://kit.fontawesome.com/97dfaafd45.js" crossorigin="anonymous"></script>
+
+
+Interesting Sites:
+1. sharestack.io - stores info about stacks of various companies.
+*stack is the collection of specific technologies/languages used for development by a certain company/person
+
+2. uigradients.com - provides already made linear gradients of css
+
+3. fontawesome.com - for icons

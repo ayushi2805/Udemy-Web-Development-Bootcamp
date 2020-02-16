@@ -1,0 +1,75 @@
+li{
+	list-style-type: none;
+	margin: 0 2vw;
+	font-size: 3vh;
+	padding: 8px 0;
+}
+
+a{
+	text-decoration: none;
+	color: #E7F2F8;
+}
+
+.header{
+	width: 100vw;
+}
+
+div{
+	display: flex;
+}
+
+ul{
+	display: flex;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0;
+	font-family: lato;
+	background-image: url(https://free4kwallpapers.com/uploads/originals/2015/09/19/portfolio-background.png);
+	background-size: cover;
+	/*background-position: center;*/
+	background-repeat: no-repeat;
+}
+
+.right{
+	text-align: right;
+}
+
+#logo{
+	padding: 8px 0px 0px 4px;
+	font-size: 3vh;
+}
+
+li:hover{
+	background-color: #E7F2F8;
+}
+
+a:hover{
+	color: black;
+}
+
+img{
+	max-height: 400px;
+	max-width: 200px;
+}
+
+.text{
+	float: right;
+	color: #E7F2F8;	
+}
+
+.content{
+	padding: 100px;
+	border-color: orange;
+	text-justify: auto;
+}
+
+.avatar{
+	max-width: 200px;
+}
+
+.text{
+	padding: 50px;
+}
